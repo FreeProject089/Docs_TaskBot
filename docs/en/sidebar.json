@@ -1,6 +1,12 @@
 [
   {
     "type": "page",
+    "label": "Introduction",
+    "path": "docs/en/introduction.md",
+    "icon": "📄"
+  },
+  {
+    "type": "page",
     "label": "Guigui",
     "path": "docs/en/guigui.md",
     "icon": "📄"
@@ -9,12 +15,6 @@
     "type": "page",
     "label": "Zdtd",
     "path": "docs/en/zdtd.md",
-    "icon": "📄"
-  },
-  {
-    "type": "page",
-    "label": "Introduction",
-    "path": "docs/en/introduction.md",
     "icon": "📄"
   }
 ]
