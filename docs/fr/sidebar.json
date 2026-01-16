@@ -1,0 +1,13 @@
+[
+  {
+    "type": "page",
+    "label": "Test",
+    "path": "docs/fr/test.md",
+    "icon": "📄"
+  },
+  {
+    "type": "category",
+    "label": "help",
+    "items": []
+  }
+]
