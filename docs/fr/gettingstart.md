@@ -1,3 +1,4 @@
+http://192.168.1.112:3000/fr/docs/introduction
 # Guide de Rédaction TaskBot
 
 ![TaskGroup Logo](/images/taskgroup-logo.png "TaskGroup Logo")
