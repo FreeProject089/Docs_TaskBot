@@ -1,0 +1,26 @@
+[
+  {
+    "type": "category",
+    "label": "hioho",
+    "items": [
+      {
+        "type": "category",
+        "label": "io",
+        "items": [
+          {
+            "type": "page",
+            "label": "Guide",
+            "path": "docs/fr/guide.md",
+            "icon": "📄"
+          }
+        ]
+      },
+      {
+        "type": "page",
+        "label": "T",
+        "path": "docs/fr/t.md",
+        "icon": "📄"
+      }
+    ]
+  }
+]
