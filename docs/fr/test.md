@@ -1,5 +1,5 @@
 # Guide de Rédaction TaskBot
-
+http://192.168.1.112:3000/fr/docs/introduction
 ![TaskGroup Logo](/images/taskgroup-logo.png "TaskGroup Logo")
 
 Bienvenue dans l'éditeur de documentation de **TaskBot**. Voici une antisèche complète pour vous aider à rédiger.
