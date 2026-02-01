@@ -4,12 +4,6 @@
     "label": "Pro",
     "items": [
       {
-        "type": "page",
-        "label": "Gettingstart",
-        "path": "docs/fr/gettingstart.md",
-        "icon": "📄"
-      },
-      {
         "type": "category",
         "label": "Test",
         "items": [
