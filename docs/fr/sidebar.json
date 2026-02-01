@@ -15,15 +15,21 @@
         "items": [
           {
             "type": "page",
-            "label": "Introduction",
-            "path": "docs/fr/introduction.md",
-            "icon": "📄"
-          },
-          {
-            "type": "page",
             "label": "Test",
             "path": "docs/fr/test.md",
             "icon": "📄"
+          },
+          {
+            "type": "category",
+            "label": "zt",
+            "items": [
+              {
+                "type": "page",
+                "label": "Introduction",
+                "path": "docs/fr/introduction.md",
+                "icon": "📄"
+              }
+            ]
           }
         ]
       }
