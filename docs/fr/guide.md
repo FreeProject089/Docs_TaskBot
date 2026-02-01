@@ -1,7 +1,7 @@
 # Guide de Rédaction TaskBot
 
 
-<div class="card">
+<div class="card">j
   <h3>Titre</h3>
   <p>Contenu...</p>
 </div>
