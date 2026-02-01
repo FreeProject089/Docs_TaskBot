@@ -1,4 +1,3 @@
-<!-- TOC_LINKS: [{"label":"srtsrt","href":"http://192.168.1.112:3000/fr/docs/editor?path=docs%2Ffr%2Ftest.md","icon":"🔥"}] -->
 # Guide de Rédaction TaskBot
 
 ![TaskGroup Logo](/images/taskgroup-logo.png "TaskGroup Logo")
@@ -166,9 +165,10 @@ $$
 
 ## 6. Boutons
 
-:::button[Documentation]{href="/docs" variant="primary" icon="arrow"}
-:::button[GitHub]{href="https://github.com" variant="secondary" icon="external"}
-:::button[Zone Danger]{href="#" variant="danger" icon="warning"}
+:::button[Documentation]{href="/docs" variant="primary" icon="arrow"}:::
+
+:::button[GitHub]{href="https://github.com" variant="secondary" icon="external"}:::
+:::button[Zone Danger]{href="#" variant="danger" icon="warning"}:::
 
 ---
 
