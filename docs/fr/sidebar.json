@@ -1,18 +1,6 @@
 [
   {
     "type": "category",
-    "label": "introduction",
-    "items": [
-      {
-        "type": "page",
-        "label": "Test",
-        "path": "docs/fr/test.md",
-        "icon": "📄"
-      }
-    ]
-  },
-  {
-    "type": "category",
     "label": "Pro",
     "items": [
       {
@@ -20,17 +8,29 @@
         "label": "Gettingstart",
         "path": "docs/fr/gettingstart.md",
         "icon": "📄"
+      },
+      {
+        "type": "category",
+        "label": "Test",
+        "items": [
+          {
+            "type": "page",
+            "label": "Test",
+            "path": "docs/fr/introduction.md",
+            "icon": "📄"
+          }
+        ]
       }
     ]
   },
   {
     "type": "category",
-    "label": "Gf",
+    "label": "introduction",
     "items": [
       {
         "type": "page",
-        "label": "Introduction",
-        "path": "docs/fr/introduction.md",
+        "label": "Test",
+        "path": "docs/fr/test.md",
         "icon": "📄"
       }
     ]
