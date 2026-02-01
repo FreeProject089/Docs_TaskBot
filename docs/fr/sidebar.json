@@ -5,14 +5,32 @@
     "items": [
       {
         "type": "page",
-        "label": "Introduction",
-        "path": "docs/fr/introduction.md",
-        "icon": "📄"
-      },
-      {
-        "type": "page",
         "label": "Test",
         "path": "docs/fr/test.md",
+        "icon": "📄"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "label": "Pro",
+    "items": [
+      {
+        "type": "page",
+        "label": "Gettingstart",
+        "path": "docs/fr/gettingstart.md",
+        "icon": "📄"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "label": "Gf",
+    "items": [
+      {
+        "type": "page",
+        "label": "Introduction",
+        "path": "docs/fr/introduction.md",
         "icon": "📄"
       }
     ]
