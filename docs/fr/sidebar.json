@@ -12,8 +12,20 @@
             "label": "Guide",
             "path": "docs/fr/guide.md",
             "icon": "📄"
+          },
+          {
+            "type": "page",
+            "label": "T",
+            "path": "docs/fr/t.md",
+            "icon": "📄"
           }
         ]
+      },
+      {
+        "type": "page",
+        "label": "Srts",
+        "path": "docs/fr/srts.md",
+        "icon": "📄"
       }
     ]
   }
