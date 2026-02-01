@@ -1,5 +1,21 @@
 # Guide de Rédaction TaskBot
 
+
+<div class="card">
+  <h3>Titre</h3>
+  <p>Contenu...</p>
+</div>
+
+
+
+<div class="grid-3">
+  <div class="card">Item 1</div>
+  <div class="card">Item 2</div>
+</div>
+
+
+:::button[Labkel]{href="#" variant="primary" icon="arrow"} 
+
 ![TaskGroup Logo](/images/taskgroup-logo.png "TaskGroup Logo")
 
 Bienvenue dans l'éditeur de documentation de **TaskBot**.
@@ -12,8 +28,9 @@ Bienvenue dans l'éditeur de documentation de **TaskBot**.
 ## 2. Mise en forme & Composants
 
 ### Boutons
-:::button[Voir la documentation]{href="/docs" variant="primary" icon="arrow"}
-:::button[Version Github]{href="https://github.com" variant="secondary" icon="external"}
+:::button[Voir la documentation]{href="/docs" variant="primary" icon="arrow"} 
+
+:::button[Version Github]{href="https://github.com" variant="secondary" icon="external"} 
 :::button[Zone Danger]{href="#" variant="danger" icon="warning"}
 
 ### Cartes Grid
@@ -75,11 +92,15 @@ $$
 | Math | ✅ |
 
 ## 6. Onglets & Alertes
+
 :::tabs
-::tab[Note]
-:::note[Info]
-Ceci est une note importante.
+::tab[Onglet 1]
+Contenu de l'onglet 1
+
+::tab[Onglet 2]
+Contenu de l'onglet 2
 :::
+
 
 
 ::tab[Attention]
