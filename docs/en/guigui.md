@@ -1,3 +1,2 @@
-**# Nouvelle page
 
-Commencez à écrir`texte`e ici...fuz6fzu**
+:::button[Label]{href="#" variant="primary" icon="arrow"}
