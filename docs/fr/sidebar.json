@@ -14,12 +14,6 @@
             "icon": "📄"
           }
         ]
-      },
-      {
-        "type": "page",
-        "label": "T",
-        "path": "docs/fr/t.md",
-        "icon": "📄"
       }
     ]
   }
