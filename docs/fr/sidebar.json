@@ -15,23 +15,17 @@
         "items": [
           {
             "type": "page",
-            "label": "Test",
+            "label": "Introduction",
             "path": "docs/fr/introduction.md",
+            "icon": "📄"
+          },
+          {
+            "type": "page",
+            "label": "Test",
+            "path": "docs/fr/test.md",
             "icon": "📄"
           }
         ]
-      }
-    ]
-  },
-  {
-    "type": "category",
-    "label": "introduction",
-    "items": [
-      {
-        "type": "page",
-        "label": "Test",
-        "path": "docs/fr/test.md",
-        "icon": "📄"
       }
     ]
   }
